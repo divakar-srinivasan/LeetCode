@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divakar-srinivasan/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/divakar-srinivasan/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/divakar-srinivasan/LeetCode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/divakar-srinivasan/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/divakar-srinivasan/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
