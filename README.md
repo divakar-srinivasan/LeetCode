@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/divakar-srinivasan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/divakar-srinivasan/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/divakar-srinivasan/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/divakar-srinivasan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/divakar-srinivasan/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/divakar-srinivasan/LeetCode/tree/master/0020-valid-parentheses) |
 ## Stack
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/divakar-srinivasan/LeetCode/tree/master/0013-roman-to-integer) |
 ## Tree
 |  |
 | ------- |
