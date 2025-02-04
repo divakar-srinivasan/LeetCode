@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/divakar-srinivasan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/divakar-srinivasan/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/divakar-srinivasan/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/divakar-srinivasan/LeetCode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/0112-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/divakar-srinivasan/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/divakar-srinivasan/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
