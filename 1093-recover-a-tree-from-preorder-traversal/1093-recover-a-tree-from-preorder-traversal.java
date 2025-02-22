@@ -13,71 +13,48 @@
  *     }
  * }
  */
+class Solution {
+    public TreeNode recoverFromPreorder(String traversal) {
+        TreeNode[] nodes = new TreeNode[1000];
 
-public class Solution
-{
-    // Step 0 : List to store pairs of depth and node values
-    private LinkedList<int[]> nodeList = new LinkedList<>();
-
-    public TreeNode recoverFromPreorder(String S)
-    {
-        // Step 1: Parse the input string to extract depth and value pairs
-        parseInput(S);
-        if (nodeList.isEmpty())
-        {
-            return null;
+        int i = 0, n = traversal.length();
+        while (i < n && traversal.charAt(i) != '-') {
+            i++;
         }
-        
-        // Step 2: Construct the binary tree using DFS
-        TreeNode root = new TreeNode(nodeList.removeFirst()[1]);
-        buildTree(root, 0);
-        
-        return root;
-    }
+        int rootValue = Integer.parseInt(traversal.substring(0, i));
+        TreeNode root = new TreeNode(rootValue);
+        nodes[0] = root;
 
-    private void buildTree(TreeNode parent, int depth)
-    {
-        // Step 3 : Check and assign the left child
-        if (!nodeList.isEmpty() && nodeList.peekFirst()[0] == depth + 1)
-        {
-            TreeNode leftChild = new TreeNode(nodeList.removeFirst()[1]);
-            parent.left = leftChild;
-            buildTree(leftChild, depth + 1);
-        }
-        
-        // Step 4 : Check and assign the right child
-        if (!nodeList.isEmpty() && nodeList.peekFirst()[0] == depth + 1)
-        {
-            TreeNode rightChild = new TreeNode(nodeList.removeFirst()[1]);
-            parent.right = rightChild;
-            buildTree(rightChild, depth + 1);
-        }
-    }
-
-    private void parseInput(String S)
-    {
-        int i = 0;
-        while (i < S.length())
-        {
-            int depth = 0;
-        
-            // Step 5 : Count the number of dashes to determine depth
-            while (i < S.length() && S.charAt(i) == '-')
-            {
+        int depth = 0;
+        while (i < n) {
+            while (i < n && traversal.charAt(i) == '-') {
                 depth++;
                 i++;
             }
-            int value = 0;
-            
-            // Step 6 : Extract the node's value
-            while (i < S.length() && Character.isDigit(S.charAt(i)))
-            {
-                value = value * 10 + (S.charAt(i) - '0');
+
+            StringBuilder sb = new StringBuilder();
+            while (i < n && traversal.charAt(i) != '-') {
+                sb.append(traversal.charAt(i));
                 i++;
             }
+            int newNodeValue = Integer.parseInt(sb.toString());
+            TreeNode newNode = new TreeNode(newNodeValue);
+
+            int parentDepth = depth - 1;
+            TreeNode parent = nodes[parentDepth];
+
+            if (parent.left == null) {
+                parent.left = newNode;
+            } else {
+                parent.right = newNode;
+            }
             
-            // Step 7 : Add the pair (depth, value) to the list
-            nodeList.add(new int[]{depth, value});
+            nodes[depth] = newNode;
+
+            depth = 0;
+            sb.setLength(0);
         }
+
+        return root;
     }
 }
