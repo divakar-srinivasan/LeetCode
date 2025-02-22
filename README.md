@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/divakar-srinivasan/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/divakar-srinivasan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/0058-length-of-last-word) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/divakar-srinivasan/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/divakar-srinivasan/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divakar-srinivasan/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -86,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/0112-path-sum) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/0112-path-sum) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/0112-path-sum) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Dynamic Programming
 |  |
