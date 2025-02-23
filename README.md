@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/divakar-srinivasan/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/divakar-srinivasan/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/divakar-srinivasan/LeetCode/tree/master/0118-pascals-triangle) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/divakar-srinivasan/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/divakar-srinivasan/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/divakar-srinivasan/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/divakar-srinivasan/LeetCode/tree/master/0013-roman-to-integer) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/divakar-srinivasan/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/divakar-srinivasan/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/0112-path-sum) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/0112-path-sum) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Dynamic Programming
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
