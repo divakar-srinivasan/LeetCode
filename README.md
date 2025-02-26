@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/divakar-srinivasan/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/divakar-srinivasan/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/divakar-srinivasan/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divakar-srinivasan/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/divakar-srinivasan/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/divakar-srinivasan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/divakar-srinivasan/LeetCode/tree/master/0118-pascals-triangle) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/divakar-srinivasan/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
 | ------- |
