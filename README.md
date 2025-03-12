@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/divakar-srinivasan/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/divakar-srinivasan/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divakar-srinivasan/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/divakar-srinivasan/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/divakar-srinivasan/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/divakar-srinivasan/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/divakar-srinivasan/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/divakar-srinivasan/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divakar-srinivasan/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/divakar-srinivasan/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/divakar-srinivasan/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/divakar-srinivasan/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2448-count-number-of-bad-pairs](https://github.com/divakar-srinivasan/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
 |  |
