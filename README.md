@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/divakar-srinivasan/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/divakar-srinivasan/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/divakar-srinivasan/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/divakar-srinivasan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/divakar-srinivasan/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divakar-srinivasan/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/divakar-srinivasan/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/divakar-srinivasan/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divakar-srinivasan/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
