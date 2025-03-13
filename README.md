@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/divakar-srinivasan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/divakar-srinivasan/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/divakar-srinivasan/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/divakar-srinivasan/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/divakar-srinivasan/LeetCode/tree/master/0070-climbing-stairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/divakar-srinivasan/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/divakar-srinivasan/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/divakar-srinivasan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/divakar-srinivasan/LeetCode/tree/master/0067-add-binary) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/divakar-srinivasan/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/divakar-srinivasan/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/divakar-srinivasan/LeetCode/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divakar-srinivasan/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/divakar-srinivasan/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divakar-srinivasan/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divakar-srinivasan/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/divakar-srinivasan/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/divakar-srinivasan/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/divakar-srinivasan/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
