@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/divakar-srinivasan/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divakar-srinivasan/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/divakar-srinivasan/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/divakar-srinivasan/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divakar-srinivasan/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/divakar-srinivasan/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
