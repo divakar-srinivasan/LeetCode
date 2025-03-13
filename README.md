@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/divakar-srinivasan/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/divakar-srinivasan/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/divakar-srinivasan/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/divakar-srinivasan/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2128-reverse-prefix-of-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divakar-srinivasan/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/divakar-srinivasan/LeetCode/tree/master/3447-clear-digits) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/divakar-srinivasan/LeetCode/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divakar-srinivasan/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2128-reverse-prefix-of-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/divakar-srinivasan/LeetCode/tree/master/3447-clear-digits) |
 ## Trie
