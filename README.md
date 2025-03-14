@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/divakar-srinivasan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/divakar-srinivasan/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/divakar-srinivasan/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/divakar-srinivasan/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/divakar-srinivasan/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/divakar-srinivasan/LeetCode/tree/master/0035-search-insert-position) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/divakar-srinivasan/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## String
 |  |
 | ------- |
