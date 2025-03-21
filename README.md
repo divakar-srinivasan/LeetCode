@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/divakar-srinivasan/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/divakar-srinivasan/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/divakar-srinivasan/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/divakar-srinivasan/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/divakar-srinivasan/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/divakar-srinivasan/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divakar-srinivasan/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/divakar-srinivasan/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/divakar-srinivasan/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/divakar-srinivasan/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2448-count-number-of-bad-pairs](https://github.com/divakar-srinivasan/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divakar-srinivasan/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/divakar-srinivasan/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/divakar-srinivasan/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/divakar-srinivasan/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Matrix
@@ -277,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/divakar-srinivasan/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/divakar-srinivasan/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
