@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divakar-srinivasan/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/divakar-srinivasan/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/divakar-srinivasan/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/divakar-srinivasan/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/divakar-srinivasan/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/divakar-srinivasan/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/divakar-srinivasan/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/divakar-srinivasan/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/divakar-srinivasan/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/0112-path-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/divakar-srinivasan/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/divakar-srinivasan/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/divakar-srinivasan/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/divakar-srinivasan/LeetCode/tree/master/0217-contains-duplicate) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/divakar-srinivasan/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divakar-srinivasan/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/divakar-srinivasan/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/divakar-srinivasan/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/divakar-srinivasan/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/divakar-srinivasan/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divakar-srinivasan/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/divakar-srinivasan/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divakar-srinivasan/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Design
 |  |
@@ -268,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/divakar-srinivasan/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/divakar-srinivasan/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/divakar-srinivasan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
@@ -296,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/divakar-srinivasan/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/divakar-srinivasan/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/divakar-srinivasan/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
