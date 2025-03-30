@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divakar-srinivasan/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0768-partition-labels](https://github.com/divakar-srinivasan/LeetCode/tree/master/0768-partition-labels) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/divakar-srinivasan/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/divakar-srinivasan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/divakar-srinivasan/LeetCode/tree/master/0067-add-binary) |
+| [0768-partition-labels](https://github.com/divakar-srinivasan/LeetCode/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/divakar-srinivasan/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/divakar-srinivasan/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/divakar-srinivasan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/divakar-srinivasan/LeetCode/tree/master/0217-contains-duplicate) |
+| [0768-partition-labels](https://github.com/divakar-srinivasan/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/divakar-srinivasan/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/divakar-srinivasan/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/divakar-srinivasan/LeetCode/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Divide and Conquer
 |  |
