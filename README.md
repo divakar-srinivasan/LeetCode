@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/divakar-srinivasan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/divakar-srinivasan/LeetCode/tree/master/0067-add-binary) |
+| [0387-first-unique-character-in-a-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0768-partition-labels](https://github.com/divakar-srinivasan/LeetCode/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/divakar-srinivasan/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/divakar-srinivasan/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/divakar-srinivasan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/divakar-srinivasan/LeetCode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0768-partition-labels](https://github.com/divakar-srinivasan/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/divakar-srinivasan/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/divakar-srinivasan/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/divakar-srinivasan/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/divakar-srinivasan/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/divakar-srinivasan/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divakar-srinivasan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divakar-srinivasan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
