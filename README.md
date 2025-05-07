@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/divakar-srinivasan/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/divakar-srinivasan/LeetCode/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
@@ -364,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/divakar-srinivasan/LeetCode/tree/master/0595-big-countries) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/divakar-srinivasan/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/divakar-srinivasan/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/divakar-srinivasan/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
