@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/divakar-srinivasan/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/divakar-srinivasan/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/divakar-srinivasan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/divakar-srinivasan/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divakar-srinivasan/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/divakar-srinivasan/LeetCode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/divakar-srinivasan/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/divakar-srinivasan/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/divakar-srinivasan/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/divakar-srinivasan/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/divakar-srinivasan/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/divakar-srinivasan/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/divakar-srinivasan/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Tree
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/divakar-srinivasan/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divakar-srinivasan/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/divakar-srinivasan/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/divakar-srinivasan/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
 | ------- |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/divakar-srinivasan/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/divakar-srinivasan/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2448-count-number-of-bad-pairs](https://github.com/divakar-srinivasan/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/divakar-srinivasan/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
 |  |
 | ------- |
